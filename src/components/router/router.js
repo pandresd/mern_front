@@ -1,16 +1,16 @@
 import React from 'react'
 import { BrowserRouter as Router, 
     Route, 
-    Switch, Link
+    Switch/* , Link */
 } from 'react-router-dom'
-import { Card/* , Button */, CardGroup  } from 'react-bootstrap';
+//import { Card/* , Button */, CardGroup  } from 'react-bootstrap';
 
-import img1 from '../img/aho.jpg'
+/* import img1 from '../img/aho.jpg'
 import img2 from '../img/cre.jpg'
 import img3 from '../img/aux.jpg'
 import img4 from '../img/ins.jpg'
 import img5 from '../img/int.jpg'
-import img6 from '../img/edu.jpg'
+import img6 from '../img/edu.jpg' */
 
 import Home from '../login/Home'
 import Login from '../login/login'

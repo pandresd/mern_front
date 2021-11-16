@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Form , Button, Container, Row, Col } from 'react-bootstrap';
+import { Form , Button, Container/* , Row, Col */ } from 'react-bootstrap';
 
 export default class contacto extends Component {
     render() {

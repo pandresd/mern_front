@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React/* , { Component }  */from 'react'
 import Carrusel from './carrusel';
 import { Card/* , Button */, CardGroup  } from 'react-bootstrap';
 import img1 from '../img/aho.jpg'
